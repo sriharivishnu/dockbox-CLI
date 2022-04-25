@@ -23,7 +23,7 @@ If you have homebrew installed on your system:
 
 #### Installing from Source
 
-If installing `dockbox` from the source, clone the repository and run `go install` in the root directory to install dockbox on your system.
+If installing `dockbox` from the source, clone the repository and run `go build` in the root directory. Rename the generated executable to `dockbox` and move it to a location in your PATH.
 
 
 --- 
